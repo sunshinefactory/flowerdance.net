@@ -1,5 +1,5 @@
-<?php
-return array(
-	'name' => '中文(简体)',
-);
+<?php
+return array(
+	'name' => '中文(简体)',
+);
 ?>
